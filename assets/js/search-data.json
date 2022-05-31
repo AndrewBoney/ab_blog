@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "Hi. I’m Andy. . I’ve been working as a Data Scientist in the Market Research sector for ~ 4 years at the time of writing this (May 2022). Most of my experience is based around building unsupervised models, such as Customer / Category Segmentations, or analytical models e.g. analysing the incremental uplift of a promotional campaign. While my job titles have always basically been “Data Scientst”, I don’t have as much experience as I’d like with what Big Tech thinks of as “Data Science”, i.e. Deep Learning. I’m trying to expose myself more to this world through courses like fastai, and reading more research papers. However fundamentally my interest is in doing things practically; so while there’s lots of theory that is important, if I’m only talking about academic research on here then I’m not using it how I want to be. .",
           "url": "https://andrewboney.github.io/ab_blog/about/",
           "relUrl": "/about/",
           "date": ""
